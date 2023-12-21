@@ -1,0 +1,5 @@
+							ARRAYS
+
+	//como nao se foi definada o seu tipo o typescript trada a lista como qualquer coisa(any)
+	const lista = [];
+	
