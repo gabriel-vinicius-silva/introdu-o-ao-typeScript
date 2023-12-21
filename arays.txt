@@ -3,3 +3,16 @@
 	//como nao se foi definada o seu tipo o typescript trada a lista como qualquer coisa(any)
 	const lista = [];
 	
+	//podendo ser colocado qualquer tipo se valor nela
+
+	mao na massa:
+
+		const.lista = [];
+		lista.push("gabriel","typescript",22 , true)
+
+	para permitir determinado valor coloca o tipo seguido de ":" + "[]"
+
+exemplo:
+
+	Const.lista : number[] ;
+	lista.push(12,13,24,22)
