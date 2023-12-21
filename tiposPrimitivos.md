@@ -9,21 +9,21 @@ Seja bem-vindo à nossa aula sobre os tipos primitivos no TypeScript! Vamos expl
   ```typescript
   let idade: number = 25;
   let altura: number = 1.75;
-2. string 📝
+## 2. string 📝
 Usado para representar texto.
 
 typescript
 Copy code
 let nome: string = "João";
 let saudacao: string = `Olá, ${nome}!`;
-3. boolean 🚦
+## 3. boolean 🚦
 Representa valores lógicos, verdadeiro (true) ou falso (false).
 
 typescript
 Copy code
 let ativo: boolean = true;
 let desativado: boolean = false;
-4. null e undefined 🤷‍♂️
+## 4. null e undefined 🤷‍♂️
 Têm seus próprios valores com o mesmo nome.
 
 typescript
@@ -43,7 +43,7 @@ typescript
 Copy code
 let numeros: number[] = [1, 2, 3, 4, 5];
 let frutas: string[] = ["maçã", "banana", "laranja"];
-7. tuple 🍇
+## 7. tuple 🍇
 Permite expressar um array com um número fixo de elementos de tipos diferentes.
 
 typescript
