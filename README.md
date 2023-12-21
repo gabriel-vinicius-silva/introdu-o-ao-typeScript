@@ -1,4 +1,4 @@
-# Nome do Seu Projeto
+# CURSO TS
 
 [![Badge](https://img.shields.io/badge/Seu%20Curso%20-%20TypeScript-brightgreen)](URL_DO_SEU_CURSO)
 [![Badge](https://img.shields.io/badge/Licença-MIT-blue)](LICENSE.md)
