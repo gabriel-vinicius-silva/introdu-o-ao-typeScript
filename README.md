@@ -4,7 +4,7 @@ Bem-vindo ao repositório do Curso de TypeScript! Este projeto visa fornecer um 
 
 ## Contribuindo
 
-Yay! :tada: Obrigado por pensar em contribuir para o projeto! Sua ajuda é incrível. Siga estas diretrizes para tornar a colaboração ainda mais legal:
+Yay! 🎉 Obrigado por pensar em contribuir para o projeto! Sua ajuda é incrível. Siga estas diretrizes para tornar a colaboração ainda mais legal:
 
 ### Como Contribuir
 
@@ -57,4 +57,4 @@ Certifique-se de seguir estes requisitos divertidos ao contribuir:
 
 Se você encontrar problemas ou tiver dúvidas, crie uma "Issue" no GitHub. Nós adoramos resolver coisas juntos!
 
-Agradecemos de coração pela sua contribuição! :balloon:
+Agradecemos de coração pela sua contribuição! 🌟🚀🎈
